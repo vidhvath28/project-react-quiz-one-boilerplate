@@ -1,0 +1,48 @@
+h2 {
+    color: green;
+    text-align: center;
+}
+
+.box {
+    padding: 1%;
+    margin: 0 25%;
+    background-color: white;
+}
+
+h3 {
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    background-color: white;
+    color: blue;
+    text-align: center;
+}
+
+table, td {
+    background-color: white;
+}
+
+.end {
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+}
+
+.end-btn-1 {
+    color: purple;
+    background-color: white;
+    margin-right: 1%;
+}
+
+.end-btn-2 {
+    color: green;
+    background-color: white;
+    margin-left: 1%;
+}
+
+.result {
+    margin-bottom: 25%;
+}

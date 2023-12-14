@@ -1,0 +1,33 @@
+
+.quiz {
+    color: white;
+    text-align: center;
+    background-color: blue;
+    padding: 20px; 
+}
+
+
+.play {
+    display: inline-block; 
+    color: white;
+    border-radius: 2rem;
+    font-size: 18px;
+    padding: 15px 30px; 
+    background-color: green;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease; 
+}
+
+.play:hover {
+    background-color: darkgreen; 
+}
+
+
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10% auto; 
+}
