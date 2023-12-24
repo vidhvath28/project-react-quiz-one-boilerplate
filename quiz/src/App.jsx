@@ -1,10 +1,9 @@
 import React from 'react';
 
 import './App.css';
-
+import HomeComponent from './components/HomeComponnent';
 import QuizComponent from './components/QuizComponent';
 import ResultComponent from './components/ResultComponent';
-import HomeComponent from './components/HomeComponnent';
 
 function App() {
   return (

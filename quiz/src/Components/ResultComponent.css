@@ -1,48 +1,52 @@
-h2 {
+h2{
     color: green;
     text-align: center;
-}
-
-.box {
+  }
+  
+  .box{
     padding: 1%;
-    margin: 0 25%;
+    margin-left: 25%;
+    margin-right: 25%;
     background-color: white;
-}
-
-h3 {
+  }
+  
+  h3{
     background-color: white;
     color: black;
     text-align: center;
-}
-
-h1 {
+  }
+  
+  h1{
     background-color: white;
     color: blue;
     text-align: center;
-}
-
-table, td {
+  }
+  
+  table{
     background-color: white;
-}
-
-.end {
+  }
+  
+  td{
+    background-color: white;
+  }
+  
+  .end{
     display: flex;
     justify-content: center;
     margin-top: 1%;
-}
-
-.end-btn-1 {
+  }
+  
+  .end-btn-1{
     color: purple;
     background-color: white;
     margin-right: 1%;
-}
-
-.end-btn-2 {
+  }
+  .end-btn-2{
     color: green;
     background-color: white;
     margin-left: 1%;
-}
+  }
 
-.result {
-    margin-bottom: 25%;
-}
+  .result{
+    margin-bottom: 25%̀;
+  }

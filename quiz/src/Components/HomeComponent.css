@@ -1,33 +1,25 @@
-
-.quiz {
+.quiz{
     color: white;
     text-align: center;
     background-color: blue;
-    padding: 20px; 
-}
-
-
-.play {
-    display: inline-block; 
+  }
+  
+  .play{
+    display: flex;
     color: white;
     border-radius: 2rem;
-    font-size: 18px;
-    padding: 15px 30px; 
+    font-size: 16px;
+    padding: 10px 70px;
     background-color: green;
     text-align: center;
-    text-decoration: none;
-    transition: background-color 0.3s ease; 
-}
-
-.play:hover {
-    background-color: darkgreen; 
-}
-
-
-.home {
+  }
+  
+  .home{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 10% auto; 
-}
+    margin-top: 25%;
+    margin-bottom: 25%;
+  } 
+  
